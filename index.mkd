@@ -11,6 +11,9 @@ Telos
 Telos is a small tactical wargame where you must overcome an army with a
 single massive battle tank.
 
+The map uses hexagonal tiles, with six movement directions from each tile. Use
+the q,w,e,a,s,d keys to move and the u,i,o,j,k,l keys to fire.
+
 It was originally intended to be my contribution for the 2011 [Seven Day
 Roguelike Challenge](http://roguebasin.roguelikedevelopment.org/index.php/7DRL_Contest_2011), but
 I didn't manage to complete it then.
@@ -22,6 +25,15 @@ compilers than GCC.
 The game uses OpenGL for graphics, and requires a somewhat up-to-date OpenGL
 display drivers. The Linux version also expects to find a dynamically linkable
 SDL library installed.
+
+Downloads
+---------
+
+[Windows executable](https://github.com/downloads/rsaarelm/telos/telos-edb304f.exe)  
+[GNU/Linux 32-bit x86 executable](https://github.com/downloads/rsaarelm/telos/telos-linux32-edb304f.tar.bz2)  
+[GNU/Linux 64-bit x86 executable](https://github.com/downloads/rsaarelm/telos/telos-linux64-edb304f.tar.bz2)  
+
+Source code available from the [GitHub page](https://github.com/rsaarelm/telos)
 
 Screenshots
 -----------
