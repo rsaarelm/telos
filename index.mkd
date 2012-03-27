@@ -1,0 +1,24 @@
+---
+title: Telos
+---
+
+Telos
+=====
+
+(C) 2012 Risto Saarelma
+
+Telos is a small tactical wargame where you must overcome an army with a
+single massive battle tank.
+
+It was originally intended to be my contribution for the 2011 [Seven Day
+Roguelike Challenge]
+(http://roguebasin.roguelikedevelopment.org/index.php/7DRL_Contest_2011), but
+I didn't manage to complete it then.
+
+The game is programmed in C++ using several features from the new C++11
+standard. It is currently (March 2012) probably not buildable with other
+compilers than GCC.
+
+The game uses OpenGL for graphics, and requires a somewhat up-to-date OpenGL
+display drivers. The Linux version also expects to find a dynamically linkable
+SDL library installed.
