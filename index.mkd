@@ -22,3 +22,10 @@ compilers than GCC.
 The game uses OpenGL for graphics, and requires a somewhat up-to-date OpenGL
 display drivers. The Linux version also expects to find a dynamically linkable
 SDL library installed.
+
+Screenshots
+-----------
+
+![shot1](img/telos-1.png)
+![shot2](img/telos-2.png)
+![shot3](img/telos-3.png)
