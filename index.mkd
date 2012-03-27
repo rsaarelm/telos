@@ -11,8 +11,7 @@ Telos is a small tactical wargame where you must overcome an army with a
 single massive battle tank.
 
 It was originally intended to be my contribution for the 2011 [Seven Day
-Roguelike Challenge]
-(http://roguebasin.roguelikedevelopment.org/index.php/7DRL_Contest_2011), but
+Roguelike Challenge](http://roguebasin.roguelikedevelopment.org/index.php/7DRL_Contest_2011), but
 I didn't manage to complete it then.
 
 The game is programmed in C++ using several features from the new C++11
